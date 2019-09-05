@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "535165aa81002528a873f433fc4f351c",
+    "revision": "37f9d4a955942c4baf4eec9399c8ed6d",
     "url": "/softcite/index.html"
   },
   {
-    "revision": "abc153c5ea8190e4416a",
+    "revision": "47c1e5ed8f82ba91018f",
     "url": "/softcite/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/softcite/static/js/2.4db57918.chunk.js"
   },
   {
-    "revision": "abc153c5ea8190e4416a",
-    "url": "/softcite/static/js/main.cfc046c4.chunk.js"
+    "revision": "47c1e5ed8f82ba91018f",
+    "url": "/softcite/static/js/main.0d59c354.chunk.js"
   },
   {
     "revision": "e5e49e6fc92e1ff5da90",
